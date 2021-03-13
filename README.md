@@ -14,20 +14,11 @@ ___
 
 With respect to English conventions (without age, address and picture).
 
-![English_CV]()
-
-![English_cover_letter]()
-
 ___
 
 ### French version
 
 With respect to French conventions (with picture, address and age).
-
-![French_CV])
-
-![French_CV]()
-
 ___
 
 ## Customized colors
