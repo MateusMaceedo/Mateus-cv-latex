@@ -34,7 +34,6 @@ ___
 
 The default theme color of CV and cover letter is different kind of blue, but you can freely custom themes color, see below some non-exhaustive examples:
 
-![Colored_Examples]()
 
 ### Green
 
