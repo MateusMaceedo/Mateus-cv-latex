@@ -1,5 +1,12 @@
 # Customizable template of Cover Letter and CV in LaTeX
 
+Este repositório hospeda o código-fonte, em
+[LaTeX](http://www.latex-project.org/), e a versão final, em PDF, de
+meu currículo.
+
+Sinta-se à vontade para utilizar a estrutura (e não os dados) em seu currículo,
+sob os termos da licença [GPL 2](http://www.gnu.org/licenses/gpl-2.0.html).
+
 ## Description
 
 **Customizable CV template**, `mateus-cv`, allow you to choose **color themes**, display or not some personal information (age, address, pictures, etc.) with respect to **English and French convention**, define some sections on left bar (skills, etc.), and define some sections in the body (education, experience, etc.) of the CV.
