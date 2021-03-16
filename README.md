@@ -7,6 +7,23 @@ meu currículo.
 Sinta-se à vontade para utilizar a estrutura (e não os dados) em seu currículo,
 sob os termos da licença [GPL 2](http://www.gnu.org/licenses/gpl-2.0.html).
 
+
+Requisitos
+----------
+
+Você necessita de alguma distribuição do LaTeX para compilar o código-fonte.
+Caso utilize Debian ou derivados (como Ubuntu), basta rodar como root:
+
+    aptitude install texlive
+
+Caso você não tenha o `aptitude` instalado, execute (também como root):
+
+    apt-get install aptitude
+
+
+Compilação
+----------
+
 ## Description
 
 **Customizable CV template**, `mateus-cv`, allow you to choose **color themes**, display or not some personal information (age, address, pictures, etc.) with respect to **English and French convention**, define some sections on left bar (skills, etc.), and define some sections in the body (education, experience, etc.) of the CV.
