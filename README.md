@@ -24,6 +24,15 @@ Caso você não tenha o `aptitude` instalado, execute (também como root):
 Compilação
 ----------
 
+Para compilar seu currículo, basta rodar:
+
+    pdflatex nome-do-arquivo-fonte.tex
+
+Ou utilizar o `Makefile`, que já compila e limpa os arquivos indesejados
+(`\*.aux` e `\*.log`):
+
+    make
+
 ## Description
 
 **Customizable CV template**, `mateus-cv`, allow you to choose **color themes**, display or not some personal information (age, address, pictures, etc.) with respect to **English and French convention**, define some sections on left bar (skills, etc.), and define some sections in the body (education, experience, etc.) of the CV.
